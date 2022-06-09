@@ -1,0 +1,39 @@
+.dashboard {
+    background: rgba(0, 0, 0, 0.5);
+    height: 91.5vh;
+}
+
+.dashboardBtn {
+    color: whitesmoke;
+    text-decoration: none !important;
+    background-color: none;
+    text-align: left;
+    font-size: 16px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.dashboardBtn:hover {
+    color: whitesmoke;
+    background-color: rgba(69, 68, 68, 0.582);
+    text-decoration: none !important;
+    background-color: none;
+    text-align: left;
+    border: none;
+}
+
+.dashboardIcon {
+    color: whitesmoke !important;
+    font-size: 20px;
+}
+
+.logoutBtn {
+    background-color: unset;
+    border: unset;
+}
+
+@media only screen and (max-width: 600px) {
+    .dashboard {
+        height: 88vh;
+    }
+}

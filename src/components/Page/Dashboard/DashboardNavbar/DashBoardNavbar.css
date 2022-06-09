@@ -1,0 +1,13 @@
+.btnToggol {
+    padding: 5px;
+    border: unset;
+    background-color: unset;
+}
+
+.toggleer {
+    color: whitesmoke !important;
+}
+
+.dashboardNav {
+    background: rgba(0, 0, 0, 0.5);
+}

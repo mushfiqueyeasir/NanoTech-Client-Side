@@ -1,0 +1,38 @@
+.bg {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.logo {
+    width: 6.3%
+}
+
+.signOut {
+    border: unset;
+    background-color: unset;
+}
+
+.signOut:hover {
+    text-decoration: none;
+    color: rgb(73, 195, 243) !important;
+}
+
+.profileDP {
+    width: 50px;
+    height: auto;
+}
+
+@media screen and (max-width: 767px) {
+    .bg {
+        background-color: black;
+        padding: 0;
+    }
+
+    .logo {
+        width: 18%;
+        padding: 2px;
+    }
+}

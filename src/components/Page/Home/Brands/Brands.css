@@ -1,0 +1,10 @@
+.brandImage {
+    width: 250px;
+    height: auto;
+    object-fit: cover;
+}
+
+.brandImage:hover {
+    transition: .6s;
+    transform: scale(1.1);
+}
