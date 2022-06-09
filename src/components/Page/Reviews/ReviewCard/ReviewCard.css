@@ -1,0 +1,67 @@
+.quotes {
+    color: rgb(8, 185, 255);
+}
+
+
+.reviewCardHeight {
+    height: 80px;
+}
+
+.card-text {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.reviewImage {
+    border-radius: 50%;
+}
+
+.name {
+    color: whitesmoke;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.occupation {
+    color: whitesmoke;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.card-title {
+    font-size: 1rem;
+}
+
+.p-1 {
+    padding: 0.33rem !important;
+}
+
+.cardRadious {
+    background-color: #0A0A0A;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.3);
+}
+
+.cardMessage {
+    color: whitesmoke;
+}
+
+.cardRadious:hover .name {
+    color: black !important;
+}
+
+.cardRadious:hover .occupation {
+    color: black;
+}
+
+.blankStar {
+    color: whitesmoke !important;
+}
+
+.cardRadious:hover .blankStar {
+    color: black !important;
+}

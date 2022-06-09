@@ -1,0 +1,30 @@
+.mapHeight {
+    height: auto
+}
+
+.fa-facebook-f:hover {
+    color: blue;
+}
+
+.fa-twitter:hover {
+    color: rgb(8, 185, 255);
+}
+
+.fa-instagram:hover {
+    color: #C42D89;
+}
+
+.fa-pinterest:hover {
+    color: #B7081B;
+}
+
+.paragraph {
+    word-break: break-all;
+}
+
+
+@media only screen and (max-width: 991px) {
+    .mapHeight {
+        height: 450px;
+    }
+}

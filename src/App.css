@@ -1,0 +1,20 @@
+body {
+    background-color: #0A0A0A;
+}
+
+.bg-Black {
+    background-color: #0A0A0A !important;
+
+}
+
+.bg-semiBlack {
+    background-color: #151515;
+}
+
+/* .fa-solid {
+    color: rgb(8, 185, 255) !important
+}
+
+.fa-regular {
+    color: rgb(8, 185, 255)
+} */

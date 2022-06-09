@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.title1 {
+    font-family: 'Montserrat';
+    color: rgb(8, 185, 255);
+    letter-spacing: -3px;
+    /* font-size: 65px; */
+    font-size: calc(1rem + 3vw) !important;
+    font-weight: 900;
+}
+
+.slogan {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    width: 40%;
+}
+
+
+
+.image-overlay {
+    -webkit-filter: brightness(20%);
+    filter: brightness(50%);
+}
+
+.cover {
+    object-fit: cover;
+    height: 100%;
+}
+
+
+.homeBannerCarosel {
+    height: 103vh !important;
+}
+
+
+.carousel-caption {
+    left: 0%;
+    right: 0%;
+    padding: 5px;
+    height: 100%;
+}
+
+.startHere {
+    border: 5px solid rgb(8, 185, 255);
+    font-family: 'Poppins', sans-serif;
+    background-color: unset;
+    font-size: 18px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 50px;
+    color: rgb(8, 185, 255);
+    font-weight: 600;
+}
+
+.startHere:hover {
+    border: 5px solid rgb(8, 185, 255);
+    background-color: rgb(8, 185, 255);
+    color: whitesmoke;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.top {
+    margin-top: -90px;
+}
+
+@-webkit-keyframes zoom {
+    from {
+        -webkit-transform: scale(1, 1);
+    }
+
+    to {
+        -webkit-transform: scale(1.5, 1.5);
+    }
+}
+
+@keyframes zoom {
+    from {
+        transform: scale(1, 1);
+    }
+
+    to {
+        transform: scale(1.3, 1.3);
+    }
+}
+
+.carousel-item img {
+    -webkit-animation: zoom 30s;
+    animation: zoom 30s;
+}
+
+@media screen and (max-width: 1399px) {
+
+    .carousel-item {
+        height: 650px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+    .title1 {
+        font-size: calc(1rem + 5vw) !important;
+    }
+
+    .slogan {
+        width: 100%;
+    }
+
+    .carousel-item {
+        height: 610px;
+    }
+
+    .homeBannerCarosel {
+        height: 93vh !important;
+    }
+
+    .top {
+        margin-top: 0;
+    }
+}

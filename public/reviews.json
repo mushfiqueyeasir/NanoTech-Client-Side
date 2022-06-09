@@ -1,0 +1,58 @@
+[
+    {
+        "id": "6249ed7d6a0e578d9d3b931c",
+        "name": "Mr Kyle Miles",
+        "img": "https://randomuser.me/api/portraits/men/72.jpg",
+        "rating": 5,
+        "occupation": "Teacher",
+        "message": "I was in a desperate need for a new chair and I always wanted a racing chair! So I pulled the plug and finally got one. It was easy to assemble and most importantly it’s very comfortable to sit in! Didn’t have any issues with the parts or the chair."
+    },
+    {
+        "id": "6249ed7deec9734c5be2d932",
+        "name": "Ms Gul Bakircioglu",
+        "img": "https://randomuser.me/api/portraits/women/64.jpg",
+        "rating": 4,
+        "occupation": "Model",
+        "message": "Noisy, but comfty. I've sat in it probably almost everyday for almost a year now and well the wear and tear kinda sucks the seat is flat and keep in mind I only weigh 143 pounds and the back too is flat. So in the end It was worth it."
+    },
+    {
+        "id": "6249ed7d38f77c9715639267",
+        "name": "Rhea Blackburn",
+        "img": "https://randomuser.me/api/portraits/men/27.jpg",
+        "rating": 5,
+        "occupation": "Student",
+        "message": "Arrived 3 days after order with free shipping. Built it myself. Instructions could be clearer and parts labeled. I'd have liked NOT a bucket seat, but it's on clearance right now over half off so I'm very happy. Looks stylish. Worth the Money"
+    },
+    {
+        "id": "6249ed7d945e22456c61b310",
+        "name": "Joan Guerrero",
+        "img": "https://randomuser.me/api/portraits/men/77.jpg",
+        "rating": 4,
+        "occupation": "Developer",
+        "message": "Although assembly was relatively easy (I put it together by myself in about 40 minutes), the chair felt like sitting on concrete. The seat cushion was so hard that it didn’t feel like a cushion at all. The adjustable lumbar support bridge didn’t go high enough."
+    },
+    {
+        "id": "6249ed7d1f7654e29ec86262",
+        "name": "Lee Vaughn",
+        "img": "https://randomuser.me/api/portraits/men/23.jpg",
+        "rating": 3,
+        "occupation": "Doctor",
+        "message": "I have been using the chair for around a month now. The chair took about 20 minutes to assemble. Once assembled the chair was relatively heavy but easily manageable to move up and down stairs. As i use it for very long time i can tell its quit good."
+    },
+    {
+        "id": "6249ed7da817a3dbdb20a14f",
+        "name": "Hatfield Valencia",
+        "img": "https://randomuser.me/api/portraits/men/21.jpg",
+        "rating": 4,
+        "occupation": "Lawyer",
+        "message": "Have been using it for 6 months. Has lasted great without any signs of wearing. Am able to continuously work 12 hrs without tiring or any back problems. Very good for remote working/gaming and also good build quality."
+    },
+    {
+        "id": "6249ed7dfaf1b002935c30a9",
+        "name": "Lillie Haley",
+        "img": "https://randomuser.me/api/portraits/men/33.jpg",
+        "rating": 4,
+        "occupation": "Teacher",
+        "message": "When buying a chair with fabric it goes bad after a couple months if used regularly. I had the chair for around 7 months and the fabric still looks new. I'm satisfied with the product. i didn't think this one gonna last this long though."
+    }
+]

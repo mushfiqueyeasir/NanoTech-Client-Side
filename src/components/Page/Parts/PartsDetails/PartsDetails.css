@@ -1,0 +1,12 @@
+* {
+    /* background-color: whitesmoke !important; */
+}
+
+.swal2-styled.swal2-confirm {
+    border: 0;
+    border-radius: 0.25em;
+    background: initial;
+    background-color: rgb(8, 185, 255);
+    color: #fff;
+    font-size: 1em;
+}
